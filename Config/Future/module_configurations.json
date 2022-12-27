@@ -1,0 +1,767 @@
+[
+  {
+    "module-label": "Announcer",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiAFK",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiAim",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiBookBan",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiBots",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiHunger",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiLevitation",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiSpam",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AntiVanish",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Aura",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoAccept",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoArmor",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoBowRelease",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoCrystal",
+    "module-state": true,
+    "module-drawn": true,
+    "module-keybind": "G"
+  },
+  {
+    "module-label": "AutoEat",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoFish",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoLog",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoMine",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoMount",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoPot",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoReconnect",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoRespawn",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoSoup",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoTotem",
+    "module-state": true,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoTrap",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoTunnel",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoWalk",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "AutoXP",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Avoid",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "BeaconSelector",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "BoatFly",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "BowAim",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "BreadCrumbs",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Chams",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Chat",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ChestAura",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ChestStealer",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ChorusControl",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ChunkComparison",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ClickGui",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "RSHIFT"
+  },
+  {
+    "module-label": "ClickTP",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ColorSigns",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Colors"
+  },
+  {
+    "module-label": "Criticals",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ESP",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ElytraFly",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "EntityControl",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "EntitySpeed",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ExtraTab",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FakeLag",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FastFall",
+    "module-state": true,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FastPlace",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FastProjectile",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FastSwim",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FastUse",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "FeetTrap",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "Z"
+  },
+  {
+    "module-label": "Flight",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Font",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Freecam",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Fucker",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Fullbright",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "HUD",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Heaven",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "HighJump",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "HoleFill",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "IceSpeed",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "InvCleaner",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "InventoryInfo",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Jesus",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "LongJump",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "MiddleClick",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "MultiTask",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NameProtect",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Nametags",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NewChunks",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoBob",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoFall",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoGlitchBlocks",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoMineAnimation",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoRender",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoRotate",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoSlow",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoSoundLag",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoWeather",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoteBot",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "NoteTuner",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Notifications",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Nuker",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Orebfuscator",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "PacketFly",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "F"
+  },
+  {
+    "module-label": "Parkour",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Phase",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "PingSpoof",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "PortalGodMode",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Reach",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Replenish",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Scaffold",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Search",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Seeker",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "SelfFill",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "X"
+  },
+  {
+    "module-label": "SelfTrap",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Shader",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Skeleton",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "SkinBlink",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Skybox",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "SmallShield",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "SmoothAim",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Sneak",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "SongStealer",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Spammer",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Speed",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "V"
+  },
+  {
+    "module-label": "Speedmine",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Sprint",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Step",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "C"
+  },
+  {
+    "module-label": "Swing",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "TickShift",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Timer",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Tracers",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Trajectories",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Trigger",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "TrueDurability",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Velocity",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ViewClip",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "ViewModel",
+    "module-state": true,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Wallhack",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Waypoints",
+    "module-state": false,
+    "module-drawn": false,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "XCarry",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  },
+  {
+    "module-label": "Yaw",
+    "module-state": false,
+    "module-drawn": true,
+    "module-keybind": "NONE"
+  }
+]

@@ -1,0 +1,15 @@
+{
+    "+tweakers": [
+        "com.example.tweaker.ILOVEFUTURECLIENT"
+    ],
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "MMC-hint": "local",
+            "name": "com.example:tweaker:1.0"
+        }
+    ],
+    "name": "1337tweaker",
+    "uid": "com.example",
+    "version": "1.0"
+}
